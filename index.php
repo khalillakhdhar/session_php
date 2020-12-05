@@ -15,7 +15,7 @@
 
 <body>
     <form>
-
+        Nom<input type="text" name="nom" required>
 
     </form>
 </body>
