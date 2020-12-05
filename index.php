@@ -14,9 +14,9 @@
 
 
 <body>
-    <form>
+    <form method="POST" action="recuperation.php">
         Nom<input type="text" name="nom" required>
-
+        <input type="submit" value="envoyer">
     </form>
 </body>
 
