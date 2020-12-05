@@ -20,6 +20,12 @@ $prenom = $_POST["prenom"];
             <td>La valeur stocké est:</td>
             <td><?php echo $stock; ?></td>
         </tr>
+        <tr>
+            <td>Le nom est:</td>
+            <td><?php print $nom; ?></td>
+
+
+        </tr>
     </table>
 
 
