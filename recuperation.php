@@ -15,7 +15,12 @@ $prenom = $_POST["prenom"];
 </head>
 
 <body>
-
+    <table>
+        <tr>
+            <td>La valeur stocké est:</td>
+            <td><?php echo $stock; ?></td>
+        </tr>
+    </table>
 
 
 </body>
