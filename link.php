@@ -32,7 +32,7 @@ $prenom = $_POST["prenom"];
         </tr>
     </table>
 
-
+    <a href="deconnexion.php">Se deconnecter</a>
 </body>
 
 
