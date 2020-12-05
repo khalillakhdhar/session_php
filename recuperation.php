@@ -1,4 +1,8 @@
 <?php
+session_start();
+$stock = $_SESSION["valeurst"];
+
+
 ?>
 
 <html>
