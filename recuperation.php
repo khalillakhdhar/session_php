@@ -23,6 +23,10 @@ $prenom = $_POST["prenom"];
         <tr>
             <td>Le nom est:</td>
             <td><?php print $nom; ?></td>
+        </tr>
+        <tr>
+            <td>Le prenom est:</td>
+            <td><?= $prenom ?></td>
 
 
         </tr>
