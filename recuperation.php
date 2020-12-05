@@ -32,7 +32,7 @@ $prenom = $_POST["prenom"];
         </tr>
     </table>
 
-
+    <a href="link.php">voir la copie</a>
 </body>
 
 
